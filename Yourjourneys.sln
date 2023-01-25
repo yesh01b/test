@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yourjourneysweb", "Yourjourneysweb\Yourjourneysweb.csproj", "{4976DD9C-7512-44AB-B0E0-643DE603BCF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yourjourneysweb.Tests", "Yourjourneysweb.Tests\Yourjourneysweb.Tests.csproj", "{AEF3ADDB-E588-4FF5-9075-D58758D63D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4976DD9C-7512-44AB-B0E0-643DE603BCF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4976DD9C-7512-44AB-B0E0-643DE603BCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4976DD9C-7512-44AB-B0E0-643DE603BCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4976DD9C-7512-44AB-B0E0-643DE603BCF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF3ADDB-E588-4FF5-9075-D58758D63D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF3ADDB-E588-4FF5-9075-D58758D63D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF3ADDB-E588-4FF5-9075-D58758D63D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF3ADDB-E588-4FF5-9075-D58758D63D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD80A82-1760-4920-8032-52345D80DE2A}
+	EndGlobalSection
+EndGlobal
