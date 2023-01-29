@@ -1,6 +1,8 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
+//Test comment
+
 namespace Yourjourneysweb
 {
     public class BundleConfig
