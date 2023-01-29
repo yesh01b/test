@@ -18,6 +18,8 @@ namespace Yourjourneysweb.Tests.Controllers
             // Arrange
             HomeController controller = new HomeController();
 
+            // This is test for the Impacted test cases and code coverage and the Custom conditions
+
             // Act
             ViewResult result = controller.Index() as ViewResult;
 
