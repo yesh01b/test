@@ -30,6 +30,8 @@ namespace Yourjourneysweb.Tests.Controllers
         {
             // Arrange
             HomeController controller = new HomeController();
+            
+            //Test condition for testing the Impactd test cases
 
             // Act
             ViewResult result = controller.About() as ViewResult;
