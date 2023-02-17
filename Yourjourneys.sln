@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yourjourneysweb", "Yourjour
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yourjourneysweb.Tests", "Yourjourneysweb.Tests\Yourjourneysweb.Tests.csproj", "{AEF3ADDB-E588-4FF5-9075-D58758D63D0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservices01", "Microservices01\Microservices01.csproj", "{AFAACC96-783F-4EDF-BF3B-270B721BE432}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AEF3ADDB-E588-4FF5-9075-D58758D63D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEF3ADDB-E588-4FF5-9075-D58758D63D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEF3ADDB-E588-4FF5-9075-D58758D63D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAACC96-783F-4EDF-BF3B-270B721BE432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAACC96-783F-4EDF-BF3B-270B721BE432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAACC96-783F-4EDF-BF3B-270B721BE432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAACC96-783F-4EDF-BF3B-270B721BE432}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
